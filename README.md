@@ -9,7 +9,7 @@ This Simple Weather App dynamically updates temperature and other weather detail
 - Responsive design for mobile and desktop
 
 ## Demo
-![Weather App Demo]([./images/weather-app-demo.png](https://github.com/ritikakeshari/Weather-App/blob/master/public/images/sample.png))
+![Weather App Demo](https://github.com/ritikakeshari/Weather-App/blob/master/public/images/sample.png)
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
